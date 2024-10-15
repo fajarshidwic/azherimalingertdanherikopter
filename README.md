@@ -1,0 +1,2 @@
+# azherimalingertdanherikopter
+gem dari ngawi
