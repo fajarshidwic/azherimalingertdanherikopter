@@ -8,7 +8,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Ll]og/
+[Ll]ogs/*.log
 [Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
